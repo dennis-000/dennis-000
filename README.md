@@ -1,6 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
-<h1 align="center">Hi 👋, I'm Dennis</h1>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=50&center=true&vCenter=true&width=800&height=100&lines=Hey+There+%F0%9F%91%8B;Welcome+to+my+profile+%F0%9F%91%8B;I'm+Dennis%F0%9F%91%8B"></div>
+<hr>
 <h3 align="center">A passionate Junior Software Engineer</h3>
 An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :IoT: Arduino, 🚀 Raspberry Pi, :new: Innovation and Automation :robot:
 
@@ -95,7 +96,7 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 <br >
 
 <br>
-
+![](https://raw.githubusercontent.com/Wishy-S/Wishy-S/master/soc/snake.svg)
 <!--<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >-->
 
 
