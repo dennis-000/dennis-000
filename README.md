@@ -30,10 +30,14 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 ## 🏆 Github Status
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=dennis-000&show_icons=true&locale=en&theme=radical" width="45%" alt="dennis-000" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dennis-000&theme=dark" width="45%" alt="dennis-000" />
-<br>
+<be>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-000&theme=radical" width="70%" alt="dennis-000" /></a></p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-000&show_icons=true&locale=en&layout=compact&theme=radical" width="45%" alt="dennis-000" />
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennis-000&theme=radical" width="70%" alt="dennis-000" /></a></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dennis-000&show_icons=true&locale=en&layout=compact&theme=radical" width="45%" alt="dennis-000" />
+</div>
+
 
 
 <div align="left">
@@ -93,10 +97,16 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 
 </div>
 
+
+
+<hr>
+
+<div align="center">
+
+
 <br >
 
 <br>
-![](https://raw.githubusercontent.com/Wishy-S/Wishy-S/master/soc/snake.svg)
 <!--<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >-->
 
 
@@ -108,3 +118,5 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/qhthrcizbx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="qhthrcizbx" /></a></p><br><br>
+
+![](https://raw.githubusercontent.com/Wishy-S/Wishy-S/master/soc/snake.svg)
