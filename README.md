@@ -119,4 +119,4 @@ An Upcoming Software🌈 Engineer🎯 from Ghana. I'm passionate about Full-Stac
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/qhthrcizbx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="qhthrcizbx" /></a></p><br><br>
 
-![](https://raw.githubusercontent.com/Wishy-S/Wishy-S/master/soc/snake.svg)
+![](https://raw.githubusercontent.com/Dennis-000/Dennis-000/main/soc/snake.svg)
